@@ -15,8 +15,6 @@ You can download 8 videos from here:
 
 Rename those videos like this, since it is what is in our data source.
 
-copy and paste the videos in the ./assets/videos folder
-
 ```
 1.mp4
 2.mp4
@@ -28,6 +26,8 @@ copy and paste the videos in the ./assets/videos folder
 8.mp4
 ```
 
+copy and paste the videos in the ./assets/videos folder
+
 ## example image
 
-- ![aqui va el logo](./assets/preview_app.jpg)
+- ![Image App](./assets/preview_app.jpg)
